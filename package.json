@@ -1,0 +1,25 @@
+{
+  "name": "liri-node-app-reworked",
+  "version": "1.0.0",
+  "description": "Reworked liri-node-app",
+  "main": "keys.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/askartemir/liri-node-app-reworked.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/askartemir/liri-node-app-reworked/issues"
+  },
+  "homepage": "https://github.com/askartemir/liri-node-app-reworked#readme",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "node-spotify-api": "^1.0.7",
+    "omdb": "^0.8.0"
+  }
+}
